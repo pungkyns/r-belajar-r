@@ -1,0 +1,1 @@
+teks = "yang sabar ya"
